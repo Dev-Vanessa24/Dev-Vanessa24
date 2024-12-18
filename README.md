@@ -3,6 +3,7 @@
 Sou estudante de programação apaixonada por tecnologia e pela criação de soluções práticas e criativas. Estou aprendendo enquanto desenvolvo projetos que me ajudam a consolidar o que estudo. Atualmente, meu foco é dominar HTML, CSS e Java mas estou sempre explorando novas ferramentas e tecnologias.  
 
 [![Vanessa Stats](https://github-readme-stats.vercel.app/api?username=Dev-Vanessa24)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Vanessa24)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
