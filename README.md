@@ -5,7 +5,6 @@ Sou estudante de programação apaixonada por tecnologia e pela criação de sol
 ![Vanessa stats](https://github-readme-stats.vercel.app/api?username=Dev-Vanessa24&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Vanessa24)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Vanessa24_progress=true)
 ---
 
 ## 📚 O que estou aprendendo  
